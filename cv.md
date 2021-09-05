@@ -15,7 +15,7 @@ I am 27 years old and live in Minsk. **My goal** at the moment is to achieve hig
 
 ## Skills and education
 
-**Currently I know HTML, CSS, JS, Git, Webpack, React, Redux, SASS.**
+**Currently I know HTML, CSS, JS, Git, Webpack, React, Redux, SASS, TS**
 
 Code example: https://mvpmiami.github.io/MyCV/dist/.
 
