@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://AliakseiSiankevich.github.io/repository-name
+https://AliakseiSiankevich.github.io/rsschool-cv
